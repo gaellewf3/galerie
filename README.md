@@ -1,4 +1,4 @@
-# galerie
+This is a React project for training.
 
 npm install to get all dependencies
 
