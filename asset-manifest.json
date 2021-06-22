@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/galerie/static/css/main.144f537b.chunk.css",
+    "main.js": "/galerie/static/js/main.86cc009e.chunk.js",
+    "main.js.map": "/galerie/static/js/main.86cc009e.chunk.js.map",
+    "runtime-main.js": "/galerie/static/js/runtime-main.d457cc46.js",
+    "runtime-main.js.map": "/galerie/static/js/runtime-main.d457cc46.js.map",
+    "static/js/2.0a615b94.chunk.js": "/galerie/static/js/2.0a615b94.chunk.js",
+    "static/js/2.0a615b94.chunk.js.map": "/galerie/static/js/2.0a615b94.chunk.js.map",
+    "index.html": "/galerie/index.html",
+    "precache-manifest.edb3b1175c9dd082eec0a1a9e788f5f4.js": "/galerie/precache-manifest.edb3b1175c9dd082eec0a1a9e788f5f4.js",
+    "service-worker.js": "/galerie/service-worker.js",
+    "static/css/main.144f537b.chunk.css.map": "/galerie/static/css/main.144f537b.chunk.css.map",
+    "static/js/2.0a615b94.chunk.js.LICENSE.txt": "/galerie/static/js/2.0a615b94.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/galerie/static/media/LeMurmure-Regular.9919a61c.woff2",
+    "static/media/boule-disco.svg": "/galerie/static/media/boule-disco.2127d86a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d457cc46.js",
+    "static/js/2.0a615b94.chunk.js",
+    "static/css/main.144f537b.chunk.css",
+    "static/js/main.86cc009e.chunk.js"
+  ]
+}
